@@ -26,7 +26,7 @@ var mattMurray = HockeyCard(name: "Matt Murray",
                             eVOrEVOffPercentage: 15,
                             pKPercentage: 56)
 
-// make instance of "Jack Johnson"
+// make instance of "Victor Hedman"
 var victorHedman = HockeyCard(name: "Victor Hedman",
                               age: 29,
                               copInMillions: 7.9 * 5,
